@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "canvas": "^3.0.0-rc3",
+    "critters": "^0.0.23",
     "next": "14.0.4",
     "polotno": "^2.17.3",
     "react": "^18",
