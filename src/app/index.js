@@ -9,6 +9,7 @@ export default function IndexPage() {
   return (
     <div>
       <Editor />
+      {/* <CustomSidePanel /> */}
       <style jsx global>{`
         body {
           padding: 0;
